@@ -1,0 +1,6 @@
+
+{
+    "authority": "https://login.microsoftonline.com/common",
+    "client_id": "fe76098e-5693-466f-9788-07e9a912923d",
+    "scopes": ["https://graph.microsoft.com/User.Read"]
+}
