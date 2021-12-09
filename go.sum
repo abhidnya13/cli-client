@@ -1,5 +1,7 @@
 github.com/AzureAD/microsoft-authentication-library-for-go v0.2.1-0.20211118211010-bf97c14840a7 h1:NloxLafBSV8Cjlm9DT5hJjRQkZ6BJFJVH0h5/uHAyfU=
 github.com/AzureAD/microsoft-authentication-library-for-go v0.2.1-0.20211118211010-bf97c14840a7/go.mod h1:Vt9sXTKwMyGcOxSmLDMnGPgqsUg7m8pe215qMLrDXw4=
+github.com/AzureAD/microsoft-authentication-library-for-go v0.2.1-0.20211209092352-e472d0938a56 h1:uYSsDu84HLIw3l8T65v8wUyFO8+DG3oy6vfZfRL0t1o=
+github.com/AzureAD/microsoft-authentication-library-for-go v0.2.1-0.20211209092352-e472d0938a56/go.mod h1:Vt9sXTKwMyGcOxSmLDMnGPgqsUg7m8pe215qMLrDXw4=
 github.com/AzureAD/microsoft-authentication-library-for-go v0.4.0 h1:WVsrXCnHlDDX8ls+tootqRE87/hL9S/g4ewig9RsD/c=
 github.com/AzureAD/microsoft-authentication-library-for-go v0.4.0/go.mod h1:Vt9sXTKwMyGcOxSmLDMnGPgqsUg7m8pe215qMLrDXw4=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=

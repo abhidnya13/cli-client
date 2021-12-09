@@ -2,7 +2,7 @@ module github.com/abhidnya13/cli-client
 
 go 1.17
 
-require github.com/AzureAD/microsoft-authentication-library-for-go v0.2.1-0.20211118211010-bf97c14840a7
+require github.com/AzureAD/microsoft-authentication-library-for-go v0.2.1-0.20211209092352-e472d0938a56
 
 require (
 	github.com/golang-jwt/jwt v3.2.1+incompatible // indirect
